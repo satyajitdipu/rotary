@@ -1,0 +1,122 @@
+.top{
+  float: left;
+  margin-left: 10%;
+  margin-right:10%;
+  padding-top: 0%;
+  padding-right: 10%;
+  height: 100px;
+}
+.header{
+  height: 100px;
+  background-color: yellow;
+}
+.nav-item{
+  padding-left: 3%;
+  margin-left: 2%;
+
+}
+.navbar-brand{
+  margin-left: 20%;
+  background-color: blue;
+}
+.card-img-top{
+  height: 300px;
+  width: 200px;
+}
+.onn{
+  float: left;
+  padding: 8%;
+}
+.navbar-brand
+{
+  margin-left: 0px;
+  padding-right: 10%;
+
+}
+.left{
+  float: left;
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 2%;
+}
+.right{
+  padding: 5%;
+  margin-top:2%;
+}
+.middle{
+  padding-left: 45%;
+  width: 100%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+.left2{
+  float: left;
+  height: 400px;
+  width:400px;
+  padding-left: 15%;
+}
+.h-100{
+  height: 300px;
+  width: 300px;
+
+}
+.card{
+  width:100%;
+  margin-left: 10%;
+}
+.control{
+  width: 70%;
+  margin-left:15%;
+}
+.col{
+  height: 500px;
+  width: 300px;
+}
+.work{
+  margin-top: 5%;
+}
+.Contact{
+  width: 75%;
+  margin-left: 10%;
+}
+.co{
+  height: 130px;
+  width: 125px;
+}
+.iframe{
+  width: 100%;
+  height: 10%;
+}
+.middle2{
+  float: left;
+  padding-left: 39%;
+  margin-right: 30%;
+}
+.row-cols-md-3{
+  padding-top:5%;
+}
+iframe{
+  padding-right: 35%;
+}
+footer{
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 10%
+
+}
+.control2{
+  width: 100%;
+  padding-left: 15%;
+  padding-right: 22%;
+  margin-bottom: 5%;
+}
+.Contact{
+  padding: 33%;
+}
+.foot{
+  margin-left: -2%;
+}
+.col-md-3 {
+    flex: 0 0 auto;
+    width:30%;

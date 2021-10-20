@@ -1,0 +1,36 @@
+.top{
+  float: left;
+  margin-left: 10%;
+  margin-right:10%;
+  padding-top: 0%;
+  padding-right: 10%;
+  height: 100px;
+}
+.header{
+  height: 100px;
+  background-color: yellow;
+}
+.nav-item{
+  padding-left: 30%;
+  margin-left: 20%;
+
+}
+.navbar-brand{
+  margin-left: 20%;
+  background-color: blue;
+}
+.card-img-top{
+  height: 300px;
+  width: 200px;
+}
+.onn{
+  float: left;
+  padding: 8%;
+}
+.u{
+  padding-left: 
+  padding-right:
+}
+.v{
+  float: left;
+}
