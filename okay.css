@@ -120,3 +120,10 @@ footer{
 .col-md-3 {
     flex: 0 0 auto;
     width:30%;
+  }
+.footerbottom{
+  margin-left: 30%;
+}
+.footleft{
+  padding-right: 2%;
+}
