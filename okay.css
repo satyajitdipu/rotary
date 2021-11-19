@@ -8,7 +8,6 @@
 }
 .header{
   height: 100px;
-  background-color: yellow;
 }
 .nav-item{
   padding-left: 3%;
@@ -17,7 +16,6 @@
 }
 .navbar-brand{
   margin-left: 20%;
-  background-color: blue;
 }
 .card-img-top{
   height: 300px;
@@ -55,22 +53,14 @@
   width:400px;
   padding-left: 15%;
 }
-.h-100{
-  height: 300px;
-  width: 300px;
 
 }
 .card{
-  width:100%;
-  margin-left: 10%;
+  margin-left: 15%;
 }
 .control{
   width: 70%;
   margin-left:15%;
-}
-.col{
-  height: 500px;
-  width: 300px;
 }
 .work{
   margin-top: 5%;
@@ -107,12 +97,12 @@ footer{
 }
 .control2{
   width: 100%;
-  padding-left: 15%;
-  padding-right: 22%;
+  padding-left: 18%;
+  padding-right: 18%;
   margin-bottom: 5%;
 }
 .Contact{
-  padding: 33%;
+  padding: 20%;
 }
 .foot{
   margin-left: -2%;
@@ -126,4 +116,15 @@ footer{
 }
 .footleft{
   padding-right: 2%;
+}
+.project{
+  text-align: center;
+  border: dotted;
+  padding: 10%;
+}
+.flex-grow-1{
+  margin-right: 16%;
+}
+.navbar{
+  background-color:#6af782;
 }
