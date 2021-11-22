@@ -4,10 +4,20 @@
   margin-right:10%;
   padding-top: 0%;
   padding-right: 10%;
-  height: 100px;
+  height: 120px;
+}
+.top2{
+  float: left;
+  margin-left: 10%;
+  margin-right:10%;
+  padding-top: 0%;
+  padding-right: 10%;
+  height: 130px;
+  
 }
 .header{
-  height: 100px;
+  height: 130px;
+
 }
 .nav-item{
   padding-left: 3%;
@@ -17,9 +27,14 @@
 .navbar-brand{
   margin-left: 20%;
 }
-.card-img-top{
-  height: 300px;
-  width: 200px;
+.card-img-top2{
+  width: 30%;
+  margin-left: 30%;
+  margin-top: 2%;
+}
+.card-title{
+  text-align: center;
+  margin-top: 2%;
 }
 .onn{
   float: left;
@@ -55,19 +70,20 @@
 }
 
 }
-.card{
+.card2{
   margin-left: 15%;
+  border-style: solid;
+  border-radius: 3.5;
+}
+.h-100{
+  border-style: outset;
 }
 .control{
   width: 70%;
-  margin-left:15%;
+  margin-left:25%;
 }
 .work{
   margin-top: 5%;
-}
-.Contact{
-  width: 75%;
-  margin-left: 10%;
 }
 .co{
   height: 130px;
@@ -101,14 +117,10 @@ footer{
   padding-right: 18%;
   margin-bottom: 5%;
 }
-.Contact{
-  padding: 20%;
-}
 .foot{
   margin-left: -2%;
 }
 .col-md-3 {
-    flex: 0 0 auto;
     width:30%;
   }
 .footerbottom{

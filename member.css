@@ -8,22 +8,17 @@
 }
 .header{
   height: 100px;
-  background-color: yellow;
 }
 .nav-item{
   padding-left: 3%;
   margin-left: 2%;
 
 }
-.navbar-brand{
-  margin-left: 20%;
-  background-color: blue;
+.flex-grow-1{
+  margin-right: 16%;
 }
-.navbar-brand
-{
-  margin-left: 0px;
-  padding-right: 10%;
-
+.navbar{
+  background-color:#6af782;
 }
 .left{
   float: left;
