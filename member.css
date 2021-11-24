@@ -7,11 +7,22 @@
   height: 100px;
 }
 .header{
-  height: 100px;
+  height: 130px;
 }
+.top2{
+  float: left;
+  margin-left: 10%;
+  margin-right:10%;
+  padding-top: 0%;
+  padding-right: 10%;
+  height: 130px;
+
+}
+
 .nav-item{
   padding-left: 3%;
   margin-left: 2%;
+
 
 }
 .flex-grow-1{
@@ -25,8 +36,8 @@
   padding: 2%;
 }
 .middle{
-  padding-left: 45%;
-  width: 100%;
+  text-align: center;
+
 }
 .card{
   width:100%;
@@ -42,7 +53,7 @@
   border-radius: 50%;
 }
 .middle2{
-  margin-left: 8%;
+  text-align: center;
 }
 .container2{
   width: 100%;
