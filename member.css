@@ -1,30 +1,33 @@
 .top{
   float: left;
   margin-left: 10%;
-  margin-right:10%;
-  padding-top: 0%;
-  padding-right: 10%;
-  height: 100px;
-}
-.header{
-  height: 130px;
+  height: 120px;
+  margin-bottom: 0.8%;
 }
 .top2{
-  float: left;
-  margin-left: 10%;
-  margin-right:10%;
+
+  margin-left:22%;
   padding-top: 0%;
-  padding-right: 10%;
-  height: 130px;
+  padding-bottom: 1%;
+  height:
+
+}
+.header{
+  height: 10px;
 
 }
 
+nav{
+  width: 100%;
+}
 .nav-item{
-  padding-left: 3%;
-  margin-left: 2%;
-
+  padding-left: 4%;
 
 }
+.navbar-brand{
+  margin-top: 0%;
+}
+
 .flex-grow-1{
   margin-right: 16%;
 }

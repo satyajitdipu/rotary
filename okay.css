@@ -1,25 +1,21 @@
 .top{
   float: left;
   margin-left: 10%;
-  margin-right:10%;
-  padding-top: 0%;
-  padding-right: 10%;
   height: 120px;
+  padding-right: 22%;
 }
-@media(max-width:1000px) {
-  .top{
-    display: block;
-  }
-
 }
 .top2{
-  float: left;
-  margin-left: 10%;
-  margin-right:10%;
+  float: right;
+  margin-left: 20%;
+  margin-right:25%;
   padding-top: 0%;
   padding-right: 10%;
   height: 130px;
 
+}
+.navbar{
+  background-color:#6af782;
 }
 nav{
   width: 100%;
