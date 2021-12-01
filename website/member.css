@@ -1,0 +1,68 @@
+.top{
+  float: left;
+  margin-left: 10%;
+  margin-right:10%;
+  padding-top: 0%;
+  padding-right: 10%;
+  height: 100px;
+}
+.header{
+  height: 130px;
+}
+.top2{
+  float: left;
+  margin-left: 10%;
+  margin-right:10%;
+  padding-top: 0%;
+  padding-right: 10%;
+  height: 130px;
+
+}
+
+.nav-item{
+  padding-left: 3%;
+  margin-left: 2%;
+
+
+}
+.flex-grow-1{
+  margin-right: 16%;
+}
+.navbar{
+  background-color:#6af782;
+}
+.left{
+  float: left;
+  padding: 2%;
+}
+.middle{
+  text-align: center;
+
+}
+.card{
+  width:100%;
+  height:350px;
+  width: 280px;
+}
+.onn{
+  margin-left: 12%;
+  margin-right: 10%;
+  width:80%;
+}
+.round{
+  border-radius: 50%;
+}
+.middle2{
+  text-align: center;
+}
+.container2{
+  width: 100%;
+  height: 100%;
+  margin-bottom: 2%;
+}
+
+.footer{
+  float: left;
+  width: 100%;
+  height: 80%;
+}
